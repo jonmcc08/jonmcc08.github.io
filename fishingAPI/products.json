@@ -2,7 +2,7 @@
     "products": [
         {
             "id": "1",
-            "name": "Placeholder",
+            "name": "Spinnerbait 14g",
             "price": 10,
             "productType": "bait",
             "productDescription": "Spinner",
@@ -76,6 +76,62 @@
             "id": "10",
             "name": "Placeholder",
             "price": 55,
+            "productType": "bait",
+            "productDescription": "Spinner",
+            "imageLink": "/images/"
+        },
+        {
+            "id": "11",
+            "name": "Placeholder",
+            "price": 30,
+            "productType": "bait",
+            "productDescription": "Spinner",
+            "imageLink": "/images/"
+        },
+        {
+            "id": "12",
+            "name": "Placeholder",
+            "price": 30,
+            "productType": "bait",
+            "productDescription": "Spinner",
+            "imageLink": "/images/"
+        },
+        {
+            "id": "13",
+            "name": "Placeholder",
+            "price": 40,
+            "productType": "bait",
+            "productDescription": "Spinner",
+            "imageLink": "/images/"
+        },
+        {
+            "id": "14",
+            "name": "Placeholder",
+            "price": 65,
+            "productType": "bait",
+            "productDescription": "Spinner",
+            "imageLink": "/images/"
+        },
+        {
+            "id": "15",
+            "name": "Placeholder",
+            "price": 70,
+            "productType": "bait",
+            "productDescription": "Spinner",
+            "imageLink": "/images/"
+        },
+        {
+            "id": "16",
+            "name": "Placeholder",
+            "price": 20,
+            "productType": "bait",
+            "productDescription": "Spinner",
+            "imageLink": "/images/"
+        },
+        {
+            "id": "17",
+            "name": "Placeholder",
+            "price": 30,
             "productType": "bait",
             "productDescription": "Spinner",
             "imageLink": "/images/"
