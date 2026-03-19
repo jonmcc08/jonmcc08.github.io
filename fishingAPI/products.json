@@ -3,7 +3,7 @@
         {
             "id": "1",
             "name": "Placeholder",
-            "price": 123,
+            "price": 10,
             "productType": "bait",
             "productDescription": "Spinner",
             "imageLink": "/images/spinner.jpg"
@@ -11,7 +11,7 @@
         {
             "id": "2",
             "name": "Placeholder",
-            "price": 123,
+            "price": 20,
             "productType": "bait",
             "productDescription": "Spinner",
             "imageLink": "/images/"
@@ -19,7 +19,7 @@
         {
             "id": "3",
             "name": "Placeholder",
-            "price": 123,
+            "price": 30,
             "productType": "bait",
             "productDescription": "Spinner",
             "imageLink": "/images/"
@@ -27,7 +27,7 @@
         {
             "id": "4",
             "name": "Placeholder",
-            "price": 123,
+            "price": 50,
             "productType": "bait",
             "productDescription": "Spinner",
             "imageLink": "/images/"
@@ -35,7 +35,7 @@
         {
             "id": "5",
             "name": "Placeholder",
-            "price": 123,
+            "price": 70,
             "productType": "bait",
             "productDescription": "Spinner",
             "imageLink": "/images/"
@@ -43,7 +43,7 @@
         {
             "id": "6",
             "name": "Placeholder",
-            "price": 123,
+            "price": 100,
             "productType": "bait",
             "productDescription": "Spinner",
             "imageLink": "/images/"
@@ -51,7 +51,7 @@
         {
             "id": "7",
             "name": "Placeholder",
-            "price": 123,
+            "price": 15,
             "productType": "bait",
             "productDescription": "Spinner",
             "imageLink": "/images/"
@@ -59,7 +59,7 @@
         {
             "id": "8",
             "name": "Placeholder",
-            "price": 123,
+            "price": 29,
             "productType": "bait",
             "productDescription": "Spinner",
             "imageLink": "/images/"
@@ -67,7 +67,7 @@
         {
             "id": "9",
             "name": "Placeholder",
-            "price": 123,
+            "price": 33,
             "productType": "bait",
             "productDescription": "Spinner",
             "imageLink": "/images/"
@@ -75,7 +75,7 @@
         {
             "id": "10",
             "name": "Placeholder",
-            "price": 123,
+            "price": 55,
             "productType": "bait",
             "productDescription": "Spinner",
             "imageLink": "/images/"
