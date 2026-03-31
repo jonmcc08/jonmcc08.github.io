@@ -1,7 +1,7 @@
 {
     "products": [
         {
-            "id": "1",
+            "id": 1,
             "name": "Spinnerbait 14g",
             "price": 10,
             "productType": "bait",
@@ -9,7 +9,7 @@
             "imageLink": "/images/spinner.jpg"
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "Placeholder",
             "price": 20,
             "productType": "bait",
@@ -17,7 +17,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "Placeholder",
             "price": 30,
             "productType": "bait",
@@ -25,7 +25,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "4",
+            "id": 4,
             "name": "Placeholder",
             "price": 50,
             "productType": "bait",
@@ -33,7 +33,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "5",
+            "id": 5,
             "name": "Placeholder",
             "price": 70,
             "productType": "bait",
@@ -49,7 +49,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "7",
+            "id": 7,
             "name": "Placeholder",
             "price": 15,
             "productType": "bait",
@@ -57,7 +57,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "8",
+            "id": 8,
             "name": "Placeholder",
             "price": 29,
             "productType": "bait",
@@ -65,7 +65,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "9",
+            "id": 9,
             "name": "Placeholder",
             "price": 33,
             "productType": "bait",
@@ -73,7 +73,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "10",
+            "id": 10,
             "name": "Placeholder",
             "price": 55,
             "productType": "bait",
@@ -81,7 +81,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "11",
+            "id": 11,
             "name": "Placeholder",
             "price": 30,
             "productType": "bait",
@@ -89,7 +89,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "12",
+            "id": 12,
             "name": "Placeholder",
             "price": 30,
             "productType": "bait",
@@ -97,7 +97,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "13",
+            "id": 13,
             "name": "Placeholder",
             "price": 40,
             "productType": "bait",
@@ -105,7 +105,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "14",
+            "id": 14,
             "name": "Placeholder",
             "price": 65,
             "productType": "bait",
@@ -113,7 +113,7 @@
             "imageLink": "/images/"
         },
         {
-            "id": "15",
+            "id": 15,
             "name": "Placeholder",
             "price": 70,
             "productType": "bait",
@@ -121,19 +121,19 @@
             "imageLink": "/images/"
         },
         {
-            "id": "16",
+            "id": 16,
             "name": "Placeholder",
             "price": 20,
-            "productType": "bait",
-            "productDescription": "Spinner",
+            "productType": "rod",
+            "productDescription": "Carbon",
             "imageLink": "/images/"
         },
         {
-            "id": "17",
+            "id": 17,
             "name": "Placeholder",
             "price": 30,
-            "productType": "bait",
-            "productDescription": "Spinner",
+            "productType": "rod",
+            "productDescription": "Wooden",
             "imageLink": "/images/"
         }
     ]
